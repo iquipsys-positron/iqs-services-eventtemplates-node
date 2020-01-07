@@ -1,0 +1,1 @@
+export { EventTemplatesServiceFactory } from './EventTemplatesServiceFactory';
